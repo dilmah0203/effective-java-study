@@ -114,7 +114,7 @@ character.setName("LEE");
 System.out.println(character.getName()); //LEE
 
 Character anotherCharacter = Character.INSTANCE; //동일한 인스턴스
-System.out.println(anotherCharacter.getName()); //LEE
+System.out.println(anotherCharacter.getName()); //LEE 
 ```
 
 `Character.INSTANCE`를 통해 항상 동일한 인스턴스에 접근하고 이를 통해 데이터를 공유할 수 있습니다.
