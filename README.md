@@ -10,7 +10,7 @@
 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라 | [shjang1013]()
 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 | [shjang1013]()
 아이템 6. 불필요한 객체 생성을 피하라 | [shjang1013]()
-아이템 7. 다 쓴 객체 참조를 해제하라| [hwibaski]()
+아이템 7. 다 쓴 객체 참조를 해제하라| [hwibaski](https://github.com/dilmah0203/effective-java-study/blob/main/2%EC%9E%A5/7.%EB%8B%A4_%EC%93%B4_%EA%B0%9D%EC%B2%B4_%EC%B0%B8%EC%A1%B0%EB%A5%BC_%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC.md)
 아이템 8. finalizer와 cleaner 사용을 피하라 | [hwibaski]()
 아이템 9. try-finally보다는 try-with-resources를 사용하라 | [hwibaski]()
 
