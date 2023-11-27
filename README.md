@@ -17,9 +17,9 @@
 ## 3장. 모든 객체의 공통 메서드
 | 아이템 | 자료
 :---: | :---:
-아이템 10. equals는 일반 규약을 지켜 재정의하라 | [jexnjeux]()
-아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 | [jexnjeux]()
-아이템 12. toString을 항상 재정의하라 | [jexnjeux]()
+아이템 10. equals는 일반 규약을 지켜 재정의하라 | [jexnjeux](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/10.%20equals%EB%8A%94_%EC%9D%BC%EB%B0%98_%EA%B7%9C%EC%95%BD%EC%9D%84_%EC%A7%80%EC%BC%9C_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
+아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 | [jexnjeux](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/11.%20equals%EB%A5%BC_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0_hashCode%EB%8F%84_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
+아이템 12. toString을 항상 재정의하라 | [jexnjeux](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/12.%20toSting%EC%9D%84_%ED%95%AD%EC%83%81_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 아이템 13. clone 재정의는 주의해서 진행하라 | 
 아이템 14. Comparable을 구현할지 고려하라 | 
 
