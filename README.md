@@ -20,13 +20,13 @@
 아이템 10. equals는 일반 규약을 지켜 재정의하라 | [jexnjeux](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/10.%20equals%EB%8A%94_%EC%9D%BC%EB%B0%98_%EA%B7%9C%EC%95%BD%EC%9D%84_%EC%A7%80%EC%BC%9C_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 | [jexnjeux](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/11.%20equals%EB%A5%BC_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0_hashCode%EB%8F%84_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 아이템 12. toString을 항상 재정의하라 | [jexnjeux](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/12.%20toSting%EC%9D%84_%ED%95%AD%EC%83%81_%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
-아이템 13. clone 재정의는 주의해서 진행하라 | 
-아이템 14. Comparable을 구현할지 고려하라 | 
+아이템 13. clone 재정의는 주의해서 진행하라 | [dilmah0203](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/13.clone%20%EC%9E%AC%EC%A0%95%EC%9D%98%EB%8A%94%20%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C%20%EC%A7%84%ED%96%89%ED%95%98%EB%9D%BC.md)
+아이템 14. Comparable을 구현할지 고려하라 | [dilmah0203](https://github.com/dilmah0203/effective-java-study/blob/main/3%EC%9E%A5/14.Comparable%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)
 
 ## 4장. 클래스와 인터페이스
 | 아이템 | 자료
 :---: | :---:
-아이템 15. 클래스와 멤버의 접근 권한을 최소화하라 |
+아이템 15. 클래스와 멤버의 접근 권한을 최소화하라 | [dilmah0203](https://github.com/dilmah0203/effective-java-study/blob/main/4%EC%9E%A5/15.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EB%A9%A4%EB%B2%84%EC%9D%98%20%EC%A0%91%EA%B7%BC%20%EA%B6%8C%ED%95%9C%EC%9D%84%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC.md)
 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 | 
 아이템 17. 변경 가능성을 최소화하라 | 
 아이템 18. 상속보다는 컴포지션을 사용하라 |
