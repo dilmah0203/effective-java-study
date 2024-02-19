@@ -44,7 +44,7 @@
 아이템 26. 로 타입은 사용하지 말라 | [shjang1013](https://github.com/dilmah0203/effective-java-study/blob/main/5%EC%9E%A5/26.%20%EB%A1%9C_%ED%83%80%EC%9E%85%EC%9D%80_%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80_%EB%A7%90%EB%9D%BC.md)
 아이템 27. 비검사 경고를 제거하라 | [shjang1013](https://github.com/dilmah0203/effective-java-study/blob/main/5%EC%9E%A5/27.%20%EB%B9%84%EA%B2%80%EC%82%AC_%EA%B2%BD%EA%B3%A0%EB%A5%BC_%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC.md)
 아이템 28. 배열보다는 리스트를 사용하라 | [dilmah0203](https://github.com/dilmah0203/effective-java-study/blob/main/5%EC%9E%A5/28.%20%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
-아이템 29. 이왕이면 제네릭 타입으로 만들라 | []()
+아이템 29. 이왕이면 제네릭 타입으로 만들라 | [shjang1013](https://github.com/dilmah0203/effective-java-study/blob/main/5%EC%9E%A5/29.%20%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4_%EC%A0%9C%EB%84%A4%EB%A6%AD_%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C_%EB%A7%8C%EB%93%A4%EB%9D%BC.md)
 아이템 30. 이왕이면 제네릭 메서드로 만들라 | 
 아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라 | 
 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라 |  
